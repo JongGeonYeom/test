@@ -1,0 +1,5 @@
+Credentials cache: API:34AA405C-C19A-480C-B77A-F1BA5A490C0B
+        Principal: jyeom@42SEOUL.KR
+
+  Issued                Expires               Principal
+Feb 16 18:42:44 2021  Feb 17 04:42:41 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
